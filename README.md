@@ -34,5 +34,3 @@ Credits: Kaggle
 4. Interpretability is partially important.
 <br>
 
-#### Acknowledgements
-Applied Ai Course
